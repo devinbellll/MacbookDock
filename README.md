@@ -1,8 +1,27 @@
 # MacbookDock
-Desktop dock for Macbook Pro 2017
+Desktop Dock for Macbook Pro 2017
 
-Dimensions found: https://www.dimensions.com/element/apple-macbook-pro-15-inch-4th-generation#:~:text=The%20MacBook%20Pro%2015%E2%80%9D%20(4th%20Generation)%20has%20a%2015.4,4.02%20lb%20(1.83%20kg).
+![Docked](media/docked.PNG)
 
+![Setup](media/setup.PNG)
+
+#### Unassembled Components (Anker Hub, USB-C Elbow Joints, Two-Piece Dock)
+
+![Unassembled Parts](media/unassembled.PNG)
+
+#### Installing the Components
+
+![Installing Hub](media/crossSection.PNG)
+
+#### Hub Installed
+
+![Partially Assembled](media/partiallyAssembled.PNG)
+
+#### Assembled Dock - note cutouts for airflow
+
+![Assembled](media/assembled.PNG)
+
+## Testing
 #### Testing to make sure hub and USB-C elbow joints will slide into place properly
 
 ![Test Model 2](media/HubCrossSectionTest.PNG)
